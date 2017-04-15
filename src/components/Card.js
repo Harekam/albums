@@ -2,7 +2,7 @@
  * Created by harekamsingh on 15/04/17.
  */
 import React from 'react';
-import {Text, View} from 'react-native';
+import {View} from 'react-native';
 
 const Card = (props) => {
     return (
